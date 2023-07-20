@@ -73,5 +73,7 @@ end
 
 gem 'pry-rails'
 
-gem 'devise'
+  gem 'devise'
+  gem 'pry-rails'
+　　　　gem 'devise'
 
